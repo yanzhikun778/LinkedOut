@@ -1,0 +1,46 @@
+社交app  
+	个人信息 
+	实现 职场人与学生的匹配（提供帮助指导）	与工作岗位匹配
+		匹配算法实现  智能匹配
+
+
+	实现 聊天功能	
+
+
+	//实现 社区（类似于贴吧）
+		//发帖子
+
+
+student类
+	attributes:
+		age sex name school skills 
+	funcs:
+		log in/out
+		update profile
+			
+
+commuter类
+	attributes:
+		age sex name school skills 
+	funcs:
+		log in/out
+		update profile
+
+
+chat类： 
+
+server类：
+client类：
+
+
+	
+
+match类 
+
+
+
+
+
+用户配置文件管理   
+个性化推荐匹配   
+配对服务和实时消息服务  
