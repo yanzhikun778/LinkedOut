@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+<head>
+    <h1>hello world!</h1>
+</head>
+<body>
+<form action="/student/auth/login" method="POST" id="login-form">
+    <div class="single-about pb-30" >
+        <h2>欢 迎 登 录</h2>
+                                   </div>
+                                   <div class="single-about pb-30">
+                                        <h5>账 号 :</h5>
+                                        <input type="email" class="form-control" id="login-email" placeholder="example@example.com" name="email" required>
+                                    </div>
+                                    <div class="single-about">
+                                        <h5>密 码 :</h5>
+                                        <input type="password" class="form-control" id="login-password" name="password" required>
+                                    </div>
+                                    {% if prompt_error|length > 0 %}
+                                        <div class="alert alert-danger alert-dismissible fade show" role="alert" style="margin-top: 20px">
+                                          <strong>Error!</strong> {{ prompt_error }}
+                                        </div>
+                                    {% else %}
+                                        <div>
+                                        </div>
+                                    {% endif %}
+                                    <div style="padding-top: 30px">
+                                        <button type="submit" class="primary-btn mt-50" >登录</button>
+                                    </div>
+                                </form>
+
+
+
+
+<form class="search-form" action="/student/auth/register" method="POST" id="register-form">
+
+									 <div class="row">
+                                         <div class="col-lg-12 range-wrap" style="text-align:center;vertical-align:middle;">
+									    	<p>姓名:</p>
+									    	<input type="name" id="register-name" value="" style="width: 33.3%"  name="name" required />
+									    </div>
+									  </div>
+
+									 <div class="row">
+                                         <div class="col-lg-12 range-wrap" style="text-align:center;vertical-align:middle;margin-top: 20px">
+									    	<p>注册邮箱:</p>
+									    	<input type="email" id="register-email" value="" style="width: 33.3%" placeholder="example@example.com" name="email" required />
+									    </div>
+									  </div>
+
+
+                                    <div class="row" style="margin-top: 20px">
+									    <div class="col-lg-12 range-wrap" style="text-align:center;vertical-align:middle;">
+									    	<p>密码：</p>
+									    	<input type="password" id="register-password" value="" style="width: 33.3%"  name="password" required />
+									    </div>
+                                    </div>
+
+                                        <div class="row" style="margin-top: 20px">
+									    <div class="col-lg-12 range-wrap" style="text-align:center;vertical-align:middle;">
+									    	<p>schools：</p>
+									    	<input type="school" id="register-password" value="" style="width: 33.3%"  name="school" required />
+									    </div>
+                                    </div>
+
+                                    <div class="row justify-content-center" style="margin-top: 60px">
+                                        <div class="col-lg-2 col-md-6 col-xs-6">
+											<select name="sex" class="app-select form-control" required>
+												<option data-display="选择性别">选择性别</option>
+												<option value="男">男</option>
+												<option value="女">女</option>
+											</select>
+									    </div>
+{#                                        <div class="col-lg-2 col-md-6 col-xs-6 ">#}
+{#											<select name="identity" class="app-select form-control"  required>#}
+{#												<option data-display="选择身份">选择身份</option>#}
+{#												<option value="医生">医生</option>#}
+{#												<option value="患者">患者</option>#}
+{#											</select>#}
+{#									    </div>#}
+
+                                    </div>
+
+                                    <div class="row" style="margin-top: 40px">
+
+									    <div class="col-lg-12 d-flex justify-content-center">
+											<button type="submit" class="primary-btn mt-50" style="height: 45px;text-align: center">注册</button>
+										</div>
+                                    </div>
+
+							  	</form>
+
+                <form method="POST" action="/blog/create">
+                    <div class="container" style="margin-top: 50px">
+                        <div class="row d-flex justify-content-center">
+                            <div class="col-md-8 pb-40 header-text">
+                                <h1 style="margin-top: 50px">publish new blog</h1>
+                            </div>
+                        </div>
+                         <div class="form-group">
+                             <label for="recipient-name" class="col-form-label">类 名 ：</label>
+                             <input type="text" class="form-control" id="recipient-name" name="blogTitle" required>
+                         </div>
+                         <div class="form-group">
+                             <label for="message-text" class="col-form-label">描 述 ：</label>
+                             <textarea class="form-control" id="message-text" name="blogDescription" style="height: 300px;"></textarea>
+                         </div>
+                         <div class="footer">
+                             <button type="submit" class="primary-btn">创 建</button>
+                             <a href="/myblogs"><button type="button" class="delete-btn">取 消</button></a>
+                         </div>
+
+                    </div>
+                </form>
+
+                <form method="POST" action="/comment/create/83e4dc846fa143a598a2b8a6db80d5e0">
+                    <div class="container" style="margin-top: 50px">
+                        <div class="row d-flex justify-content-center">
+                            <div class="col-md-8 pb-40 header-text">
+                                <h1 style="margin-top: 50px">publish new comment</h1>
+                            </div>
+                        </div>
+                         <div class="form-group">
+                             <label for="message-text" class="col-form-label">描 述 ：</label>
+                             <textarea class="form-control" id="message-text" name="blogDescription" style="height: 300px;"></textarea>
+                         </div>
+                         <div class="footer">
+                             <button type="submit" class="primary-btn">创 建</button>
+                             <a href="/myblogs"><button type="button" class="delete-btn">取 消</button></a>
+                         </div>
+
+                    </div>
+                </form>
+
+
+</body>
+
+
