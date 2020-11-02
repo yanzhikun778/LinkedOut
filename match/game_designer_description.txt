@@ -1,0 +1,70 @@
+Video game designers, also known as games designers, design games for a variety of formats, such as consoles, wireless applications, the internet and mobile phones. They decide on the overall design and purpose for the game but many also specialise in one aspect of the design, such as the story line, characters or layout. Lead designers coordinate the design aspects. A game mechanics designer works on the balance of the game and its rule system. The environmental designer creates the different scenarios and environments of the game. Designers have a different role to that of video game developers, who take designers' concepts and write the code to make them into a game that can be played.
+
+The work of a games designer typically involves:
+Coming up with new and appealing game ideas
+Developing gameplay ideas
+Experimenting with themes and genres
+Developing plots and storylines
+Developing characters
+Developing maps, scenarios, and levels of difficulty
+Coming up with ways of winning and losing the game
+Developing user interface (menus and controls) concepts
+Improving existing games
+
+Key skills for video game designers
+Analytical skills
+Documentation writing
+Game platforms
+Game systems
+Maya
+Online play models
+Python
+C++
+C#
+Unity
+Unreal Engine
+Multimedia Development
+Game Development
+Level Design
+Adobe Photoshop
+Maya
+EPIC
+Zbrush
+video graphics
+hardware essential
+computer animation
+programming
+fluent English
+
+Best Practices
+Innovative
+teamwork
+team work
+team player
+team
+Ability
+Accept Feedback
+Adaptable
+adaptability
+Assertive
+Attentive
+critical thinking
+communication
+creativity
+collaboration
+Functions Well Under Pressure
+Organizational ability
+Persistence
+Problem Solving
+storytelling ability
+Self-directed
+Self-monitoring
+Self-supervising
+Technology Savvy
+Time Management
+Thinks Outside the Box
+Time management
+Verbal Communication
+Visual Communication
+Work Well Under Pressure
+

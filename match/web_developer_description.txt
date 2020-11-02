@@ -1,0 +1,95 @@
+Web developers are responsible for writing code to create a website, both at the front end and the back end. The front end includes the website users see and the back end is the side that delivers information to the front end. In smaller firms, a web developer is also responsible for some level of web design. Web developer duties can include:
+
+Understanding the company requirements or team requesting the website
+Writing front and back end code to set up the parameters of the website
+Working with designers on the website appearance
+Creating a method to collect user feedback
+Analyzing user feedback to fix errors and improve user experience (UX)
+Implementing testing tools to continuously monitor the website
+Keeping all software current and updated
+Ensuring websites and related applications are secure 
+
+Technical skills: Web developers must be able to show competency in coding languages such as HTML5, PHP and JavaScript. Familiarization with Cascading Style Sheets (CSS), ASP.NET and AngularJS will also help make an aspiring web developer more desirable as a job candidate, as will familiarity with tools such as Oracle and SQL Server. 
+
+Communication: Web developers should be able to interact with and understand client and team needs. As clients often don’t have a technical background, developers often need to explain complex subjects in a simple, easy-to-understand manner. 
+
+Detail-orientation: These professionals often write and review thousands of lines of code to create a website. They should have excellent attention to detail to identify and fix small errors that could cause improper functions in the end product. 
+
+Time management: Particularly if they work on a freelance or multiple contract basis, web developers often simultaneously create several websites. They must prioritize tasks, make and adhere to deadlines and create timelines for work completion.
+
+Self-motivated learning: Because they are in a field that evolves continuously, web developers should teach themselves new tools and techniques as companies release updates. They should also apply any new techniques to current websites to improve the UX
+
+python
+ASP.Net
+Java
+C#
+Flask
+Django
+Springboot
+HTML/CSS
+Analytical
+Responsive design
+JavaScript
+Testing
+Debugging
+back-end basics
+search engine optimization
+fluent English
+developer
+data
+SQL Server
+Data Mining
+Computer Science
+Relational Databases
+Reporting
+Revision Control
+Structured Query Language (SQL)
+
+Best Practices
+Innovative
+teamwork
+team work
+team player
+team
+Ability
+Accept Feedback
+Adaptable
+Assertive
+Attentive
+Experience
+Excel
+Facilitating
+Flexible
+Flexibility
+Follow Instructions
+Follow Regulations
+Follow Rules
+Friendly
+Functions Well Under Pressure
+Giving Feedback
+Organization
+Patience
+Performance
+Perform Effectively
+Performance Management
+Perseverance
+Persistence
+Results Oriented
+Safety Conscious
+Scheduling
+Self-awareness
+Self-directed
+Self-monitoring
+Self-supervising
+Technology Savvy
+Time Management
+Tolerant of Change and Uncertainty
+Trainable
+Troubleshooter
+Value Education
+Verbal Communication
+Visual Communication
+Well Groomed
+Willing to Accept Feedback
+Willingness to Learn
+Work Well Under Pressure
