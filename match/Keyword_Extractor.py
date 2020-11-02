@@ -5,7 +5,6 @@ import numpy as np
 import nltk
 import operator
 import math
-import pdfquery
 try:
     from StringIO import StringIO
 except ImportError:
